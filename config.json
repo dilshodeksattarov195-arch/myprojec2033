@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymenteelete",
+        "uuid": 2838068,
+        "checksum": "7qfoj4c"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
